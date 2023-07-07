@@ -1,6 +1,8 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). \## Table of contents
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). 
+
+## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -16,7 +18,7 @@ Users should be able to:
 
 ### Screenshot
 
-![order](./images/order.png.jpg)
+![order](./images/order.png)
 
 ### Links
 
